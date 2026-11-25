@@ -1,0 +1,10 @@
+{
+  "name": "SafeHer AI",
+  "description": "Your Safety. Your Control. Your Confidence. Women's safety, emergency SOS response, consent-based location sharing, smart navigation, and AI safety intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
